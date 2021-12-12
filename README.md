@@ -16,7 +16,7 @@ GRE的单词是重中之重，可以说你如果单词背好了基本不会遇�
 
 每天背单词的时候可以把记不住/重要的词汇用excel表记录一下，复习的时候对这些单词也就更需要重视。
 
-考前一周除了复习之外也可以加强巩固一下《[GRE救命800词 ](https://github.com/RainWang6188/GRE-All-In-One/blob/master/Vocabulary/微臣考前单词/《GRE救命800词 》.pdf)》，里面的单词都是很重要的。
+考前一周除了复习之外也可以加强巩固一下《[GRE救命800词](https://github.com/RainWang6188/GRE-All-In-One/blob/master/Vocabulary/微臣考前单词/GRE救命800词.pdf)》，里面的单词都是很重要的。
 
 
 

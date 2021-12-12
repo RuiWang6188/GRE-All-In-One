@@ -10,7 +10,7 @@
 
 ## Vocabulary
 
-GRE的单词是重中之重，可以说你如果单词背好了基本不会遇到什么问题。这里推荐使用琦叔的《[再要你命3000》](https://github.com/RainWang6188/GRE-All-In-One/blob/master/Vocabulary/要你命系列/GRE 词汇-陈琦《再要你命3000》.pdf)（i.e. 大3000），把这里的单词吃透GRE上330完全够了。很多人说要背新东方的《[GRE词汇精选](https://github.com/RainWang6188/GRE-All-In-One/blob/master/Vocabulary/GRE词汇精选（红宝书）.pdf)》（红宝书），个人也背过，感觉部分单词过于生僻，对于短期冲刺的同学来说性价比不是很高。
+GRE的单词是重中之重，可以说你如果单词背好了基本不会遇到什么问题。这里推荐使用琦叔的《[再要你命3000》]([G(https://github.com/RainWang6188/GRE-All-In-One/blob/master/Vocabulary/要你命系列/GRE词汇-再要你命3000.pdf))（i.e. 大3000），把这里的单词吃透GRE上330完全够了。很多人说要背新东方的《[GRE词汇精选](https://github.com/RainWang6188/GRE-All-In-One/blob/master/Vocabulary/GRE词汇精选（红宝书）.pdf)》（红宝书），个人也背过，感觉部分单词过于生僻，对于短期冲刺的同学来说性价比不是很高。
 
 背单词的方法建议阅读杨鹏老师的《[17天搞定GRE单词](https://github.com/RainWang6188/GRE-All-In-One/blob/master/Vocabulary/17天搞定GRE单词杨鹏.pdf)》，这个方法论我个人尝试过很有用，但确实需要很强的毅力，始终牢记复习比背新词更有用。同学们可以使用这个[网页](https://exam4.us/)制定背单词计划表。
 
